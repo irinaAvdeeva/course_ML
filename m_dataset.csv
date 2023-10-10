@@ -85,19 +85,19 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 83,TV Show,City of Ghosts,Not Given,United States,2021,TV-Y7,1 Season,Kids' TV
 84,Movie,No Reservations,Scott Hicks,United States,2007,PG,104 min,"Comedies, Romantic Movies"
 85,Movie,Escape from Planet Earth,Cal Brunker,United States,2013,PG,89 min,"Children & Family Movies, Comedies, Sci-Fi & Fantasy"
-86,Movie,Barbie in A Mermaid Tale,Adam Wood,The Shire,2010,TV-Y,74 min,Children & Family Movies
+86,Movie,Barbie in Shire,Adam Wood,The Shire,2010,TV-Y,74 min,Children & Family Movies
 87,TV Show,Malibu Rescue: The Series,Not Given,United States,2019,TV-G,1 Season,"Kids' TV, TV Action & Adventure, TV Comedies"
 88,TV Show,The Minimighty Kids,Not Given,France,2012,TV-G,2 Seasons,"Kids' TV, TV Comedies"
 89,Movie,LEGO Marvel Super Heroes: Black Panther,Michael D. Black,United States,2018,TV-Y7,22 min,Children & Family Movies
-90,Movie,Hugo,Martin Scorsese,United States,2011,PG,127 min,"Children & Family Movies, Dramas"
-91,Movie,Barbie: A Fairy Secret,William Lau,The Shire,2010,TV-Y7,72 min,Children & Family Movies
+90,movie,Hugo,Martin Scorsese,United States,2011,PG,127 min,"Children & Family Movies, Dramas"
+91,Movie,A Fairy Secret,William Lau,The Shire,2010,TV-Y7,72 min,Children & Family Movies
 92,Movie,Motu Patlu in the City of Gold,Suhas Kadav,India,2018,TV-Y7,77 min,"Children & Family Movies, Comedies, Music & Musicals"
-93,Movie,Lock Your Girls In,Fouad El-Mohandes,The Shire,1982,TV-PG,233 min,"Comedies, International Movies, Romantic Movies"
+93,Movie,Lock Your Elves in,Fouad El-Mohandes,The Shire,1982,TV-PG,233 min,"Comedies, International Movies, Romantic Movies"
 94,TV Show,Operation Ouch!,Not Given,United Kingdom,2012,TV-PG,1 Season,"British TV Shows, Kids' TV, TV Comedies"
 95,Movie,Alpha and Omega: The Legend of the Saw Tooth Cave,Richard Rich,United States,2014,TV-Y7,45 min,Children & Family Movies
 96,Movie,Ho Mann Jahaan,Asim Raza,Pakistan,2015,TV-PG,170 min,"Dramas, International Movies, Romantic Movies"
 97,Movie,Leap!,"Eric Summer, Éric Warin",France,2016,PG,89 min,"Children & Family Movies, Comedies"
-98,Movie,"Monster High: Frights, Camera, Action!",William Lau,The Shire,2014,TV-Y7,74 min,Children & Family Movies
+98,Movie,"Monster High: Goblins, Caves, action!",William Lau,The Shire,2014,TV-Y7,74 min,Children & Family Movies
 99,Movie,A StoryBots Christmas,"Evan Spiridellis, Jeff Gill",United States,2017,TV-Y,26 min,"Children & Family Movies, Comedies"
 100,Movie,How the Beatles Changed the World,Tom O'Dell,United States,2017,TV-PG,110 min,"Documentaries, Music & Musicals"
 101,Movie,Spookley and the Christmas Kittens,Bernie Denk,The Shire,2019,TV-Y,45 min,Children & Family Movies
@@ -152,7 +152,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 150,Movie,If Anything Happens I Love You,"Will McCormack, Michael Govier",United States,2020,PG,13 min,Dramas
 151,Movie,,,Brazil,2016,NR,95 min,"Comedies, Dramas, International Movies"
 152,Movie,The Willoughbys,Kris Pearn,Canada,2020,PG,92 min,"Children & Family Movies, Comedies"
-153,Movie,East Side Sushi,Anthony Lucero,United States,2015,PG,106 min,Dramas
+153,movie,East Side Sushi,Anthony Lucero,United States,2015,PG,106 min,Dramas
 154,TV Show,Carmen Sandiego,Not Given,United States,2021,TV-Y7,4 Seasons,"Kids' TV, TV Thrillers"
 155,Movie,Bruno and Boots: This Can't Be Happening at Macdonald Hall,Vivieno Caldinelli,Canada,2017,TV-PG,90 min,"Children & Family Movies, Comedies"
 156,Movie,The Princess Switch,Not Given,United States,2018,TV-G,102 min,"Children & Family Movies, Dramas, Romantic Movies"
@@ -251,7 +251,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 249,Movie,Dragonheart: A New Beginning,Doug Lefler,United States,2000,PG,84 min,"Action & Adventure, Sci-Fi & Fantasy"
 250,TV Show,The Next Step,Not Given,Canada,2018,TV-G,1 Season,"Kids' TV, Reality TV, TV Dramas"
 251,TV Show,Julie and the Phantoms,Kenny Ortega,United States,2020,TV-G,1 Season,"Kids' TV, TV Comedies"
-252,Movie,Dolly Parton’s Christmas on the Square,Debbie Allen,United States,2020,TV-PG,99 min,"Children & Family Movies, Music & Musicals"
+252,movie,Dolly Parton’s Christmas on the Square,Debbie Allen,United States,2020,TV-PG,99 min,"Children & Family Movies, Music & Musicals"
 253,TV Show,Everyday Miracles,Not Given,United Kingdom,2014,TV-PG,1 Season,"British TV Shows, Docuseries, International TV Shows"
 254,TV Show,Angry Birds,Not Given,Finland,2018,TV-Y7,1 Season,"Kids' TV, TV Comedies"
 255,TV Show,The Healing Powers of Dude,Not Given,Pakistan,2020,TV-G,1 Season,"Kids' TV, TV Comedies, TV Dramas"
@@ -286,7 +286,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 284,Movie,Aggretsuko: We Wish You a Metal Christmas,Rarecho,Japan,2018,TV-PG,22 min,Movies
 285,TV Show,The American Bible Challenge,Michael Simon,United States,2014,TV-G,1 Season,Reality TV
 286,TV Show,Ask the Doctor,Not Given,Australia,2017,TV-PG,1 Season,"Docuseries, International TV Shows, Science & Nature TV"
-287,Movie,Flavors of Youth: International Version,"Xiaoxing Yi, Yoshitaka Takeuchi, Haoling Li",China,2018,TV-PG,74 min,"Anime Features, International Movies, Romantic Movies"
+287,Movie,Flavors of Youth: International Version,"Xiaoxing Yi, Yoshitaka Takeuchi, Haoling Li",China,2018,TV-PG,-74 min,"Anime Features, International Movies, Romantic Movies"
 288,Movie,"LeapFrog: Sing-along, Read-along",Ron Myrick,United States,2011,TV-Y,32 min,Children & Family Movies
 289,Movie,Secret,Jay Chou,Hong Kong,2007,TV-PG,101 min,"Dramas, International Movies, Music & Musicals"
 290,TV Show,Mighty Morphin Alien Rangers,Not Given,Pakistan,1996,TV-Y7,1 Season,Kids' TV
@@ -336,7 +336,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 334,Movie,Walt Disney Animation Studios Short Films Collection,"Chris Buck, Jennifer Lee, Patrick Osborne, Lauren MacMullan, John Kahrs, Nathan Greno, Byron Howard, Stevie Wermers, Dean Wellins, Kevin Deters, Roger Allers, Mike Gabriel, Mark Henn",The Shire,2015,TV-Y,90 min,Children & Family Movies
 335,TV Show,Talking Tom and Friends,Not Given,Cyprus,2017,TV-Y,1 Season,"Kids' TV, TV Comedies"
 336,TV Show,Beast Legends,Not Given,Canada,2010,TV-PG,1 Season,Docuseries
-337,Movie,Scales: Mermaids Are Real,Kevan Peterson,The Shire,2017,PG,93 min,Children & Family Movies
+337,movie,Scales: Mermaids Are Real,Kevan Peterson,The Shire,2017,PG,93 min,Children & Family Movies
 338,Movie,Bogda,Nisheeta Keni,India,2018,TV-PG,161 min,"Dramas, International Movies"
 339,TV Show,Power Battle Watch Car,Not Given,Pakistan,2016,TV-Y7,1 Season,"Kids' TV, Korean TV Shows"
 340,Movie,Bright Star,Jane Campion,United Kingdom,2009,PG,119 min,"Dramas, Romantic Movies"
@@ -404,7 +404,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 402,TV Show,Twogether,Not Given,South Korea,2020,TV-G,1 Season,"International TV Shows, Korean TV Shows, Reality TV"
 403,Movie,,,United States,2013,NR,72 min,Stand-Up Comedy
 404,TV Show,Saved by the Bell,Not Given,United States,1994,TV-PG,9 Seasons,"Kids' TV, TV Comedies"
-405,Movie,Naledi: A Baby Elephant's Tale,"Ben Bowie, Geoff Luck",United States,2016,TV-PG,91 min,Documentaries
+405,movie,Naledi: A Baby Elephant's Tale,"Ben Bowie, Geoff Luck",United States,2016,TV-PG,91 min,Documentaries
 406,Movie,For the Love of Benji,Joe Camp,The Shire,1977,G,84 min,Children & Family Movies
 407,Movie,Kartini: Princess of Java,Hanung Bramantyo,Indonesia,2017,TV-PG,118 min,"Dramas, International Movies"
 408,Movie,LEGO Marvel Super Heroes: Avengers Reassembled!,Rob Silvestri,United States,2015,TV-Y7,22 min,Children & Family Movies
@@ -441,7 +441,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 439,TV Show,Bal Ganesh,Vijay S. Bhanushali,Not Given,2019,TV-Y7,1 Season,Kids' TV
 440,Movie,Bob's Broken Sleigh,Jay Surridge,Canada,2015,TV-G,47 min,Children & Family Movies
 441,TV Show,Pororo - The Little Penguin,Not Given,South Korea,2013,TV-Y7,3 Seasons,"Kids' TV, Korean TV Shows"
-442,Movie,The Little Vampire,"Richard Claus, Karsten Kiilerich",Netherlands,2017,TV-G,83 min,Children & Family Movies
+442,Movie,The Little Vampire,"Richard Claus, Karsten Kiilerich",Netherlands,2017,TV-G,-83 min,Children & Family Movies
 443,TV Show,Dogs,Not Given,United States,2021,TV-PG,2 Seasons,Docuseries
 444,Movie,Teshan,Sukhbir Singh,India,2016,TV-PG,133 min,"Comedies, International Movies, Romantic Movies"
 445,Movie,Thomas & Friends: Marvelous Machinery: A New Arrival,Joey So,Not Given,2020,TV-Y,23 min,Children & Family Movies
@@ -460,7 +460,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 458,TV Show,Japanese Style Originator,Not Given,Japan,2008,TV-G,1 Season,"International TV Shows, Stand-Up Comedy & Talk Shows"
 459,Movie,Amrapali,Lekh Tandon,India,1966,TV-PG,116 min,"Dramas, International Movies, Music & Musicals"
 460,TV Show,Mega Food,Not Given,United Kingdom,2013,TV-G,1 Season,"British TV Shows, Docuseries, International TV Shows"
-461,Movie,Pants on Fire,Jonathan A. Rosenbaum,Canada,2014,TV-G,87 min,"Children & Family Movies, Comedies"
+461,movie,Pants on Fire,Jonathan A. Rosenbaum,Canada,2014,TV-G,87 min,"Children & Family Movies, Comedies"
 462,TV Show,The Worst Witch,Not Given,United Kingdom,2020,TV-G,4 Seasons,"British TV Shows, Kids' TV"
 463,TV Show,Little Witch Academia,Not Given,Japan,2017,TV-Y7,2 Seasons,"Anime Series, International TV Shows"
 464,TV Show,A Little Thing Called First Love,Not Given,China,2019,TV-G,1 Season,"International TV Shows, Romantic TV Shows, Teen TV Shows"
@@ -523,7 +523,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 521,TV Show,H2O: Mermaid Adventures,Not Given,Germany,2015,TV-Y7,2 Seasons,Kids' TV
 522,Movie,Ma Rainey's Black Bottom: A Legacy Brought to Screen,Not Given,Pakistan,2020,TV-PG,32 min,"Documentaries, Music & Musicals"
 523,Movie,Inuyasha the Movie - L'isola del fuoco scarlatto,Toshiya Shinohara,Japan,2004,TV-PG,88 min,"Action & Adventure, Anime Features, International Movies"
-524,Movie,A Go! Go! Cory Carson Christmas,"Stanley Moore, Alex Woo",The Shire,2020,TV-Y,22 min,Children & Family Movies
+524,movie,A Go! Go! Cory Carson Christmas,"Stanley Moore, Alex Woo",The Shire,2020,TV-Y,22 min,Children & Family Movies
 525,Movie,Iyore,Frank Rajah Arase,Nigeria,2015,TV-PG,141 min,"Dramas, International Movies, Romantic Movies"
 526,TV Show,Legends of Strength,Not Given,United States,2017,TV-PG,1 Season,Docuseries
 527,Movie,The Most Unknown,Ian Cheney,United States,2018,TV-PG,92 min,Documentaries
@@ -628,7 +628,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 626,TV Show,The Who Was? Show,Not Given,United States,2018,TV-PG,1 Season,"Kids' TV, TV Comedies"
 627,Movie,A Witches' Ball,Justin G. Dyck,Canada,2017,PG,91 min,Children & Family Movies
 628,TV Show,Bunk'd,Not Given,United States,2021,TV-G,5 Seasons,"Kids' TV, TV Comedies"
-629,Movie,My Little Pony Equestria Girls: Legend of Everfree,Ishi Rudell,United States,2016,TV-Y7,73 min,"Children & Family Movies, Comedies"
+629,movie,My Little Pony Equestria Girls: Legend of Everfree,Ishi Rudell,United States,2016,TV-Y7,73 min,"Children & Family Movies, Comedies"
 630,TV Show,Merry Happy Whatever,Not Given,United States,2019,TV-PG,1 Season,TV Comedies
 631,Movie,My Little Pony Friendship Is Magic: Best Gift Ever,"Denny Lu, Mike Myhre",The Shire,2018,TV-Y,44 min,Children & Family Movies
 632,TV Show,"Wait, My Youth",Not Given,China,2019,TV-PG,1 Season,"International TV Shows, Romantic TV Shows, Teen TV Shows"
@@ -688,7 +688,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 686,TV Show,MONKART,Not Given,Pakistan,2017,TV-Y7,1 Season,"Kids' TV, Korean TV Shows"
 687,Movie,End Game,"Rob Epstein, Jeffrey Friedman",United States,2018,TV-PG,40 min,Documentaries
 688,Movie,,,Canada,2015,NR,110 min,"Documentaries, International Movies"
-689,Movie,The American Game,Mostafa Abu Seif,The Shire,2019,TV-PG,91 min,"Comedies, International Movies, Romantic Movies"
+689,movie,The American Game,Mostafa Abu Seif,The Shire,2019,TV-PG,91 min,"Comedies, International Movies, Romantic Movies"
 690,TV Show,Go Dog Go,Not Given,United States,2021,TV-Y,1 Season,Kids' TV
 691,TV Show,The Liar and His Lover,Not Given,South Korea,2017,TV-PG,1 Season,"International TV Shows, Korean TV Shows, Romantic TV Shows"
 692,TV Show,Chico Bon Bon: Monkey with a Tool Belt,Not Given,United States,2020,TV-Y,4 Seasons,Kids' TV
@@ -818,7 +818,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 816,Movie,Yes or No 2,Saratswadee Wongsomphet,Thailand,2012,TV-PG,112 min,"International Movies, LGBTQ Movies, Romantic Movies"
 817,Movie,True: Wuzzle Wegg Day,"Todd Kauffman, Mark Thornton",Canada,2020,TV-Y,24 min,Children & Family Movies
 818,Movie,Tall Girl,Nzingha Stewart,United States,2019,TV-PG,103 min,"Children & Family Movies, Comedies, Romantic Movies"
-819,Movie,A Holiday Engagement,Jim Fall,United States,2011,TV-G,92 min,"Children & Family Movies, Comedies, Romantic Movies"
+819,movie,A Holiday Engagement,Jim Fall,United States,2011,TV-G,92 min,"Children & Family Movies, Comedies, Romantic Movies"
 820,Movie,'89,Not Given,United Kingdom,2017,TV-PG,87 min,Sports Movies
 821,TV Show,ID-0,Not Given,Japan,2017,TV-PG,1 Season,"Anime Series, International TV Shows"
 822,Movie,Cultivating the Seas: History and Future of the Full-Cycle Cultured Kindai Tuna,Mana Yasuda,Japan,2019,TV-PG,45 min,"Documentaries, International Movies"
@@ -923,7 +923,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 921,TV Show,First Team: Juventus,Not Given,United States,2018,TV-PG,2 Seasons,"Docuseries, International TV Shows"
 922,Movie,Fearless,Cory Edwards,Canada,2020,TV-Y7,92 min,"Children & Family Movies, Comedies"
 923,Movie,André & his olive tree,Josiah Ng,Singapore,2020,TV-PG,104 min,"Documentaries, International Movies"
-924,Movie,Barbie: A Fairy Secret,William Lau,The Shire,2010,TV-Y7,72 min,Children & Family Movies
+924,movie,Barbie: A Fairy Secret,William Lau,The Shire,2010,TV-Y7,72 min,Children & Family Movies
 925,Movie,The Little Prince,Mark Osborne,France,2015,PG,107 min,Children & Family Movies
 926,Movie,,,United States,2016,NR,86 min,"Dramas, Independent Movies"
 927,TV Show,Hilda,Not Given,United Kingdom,2021,TV-Y7,2 Seasons,Kids' TV
@@ -995,7 +995,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 993,TV Show,Power Rangers Beast Morphers,Not Given,United States,2020,TV-Y7,2 Seasons,Kids' TV
 994,Movie,Osmosis Jones,"Bobby Farrelly, Peter Farrelly",United States,2001,PG,95 min,"Action & Adventure, Children & Family Movies, Comedies"
 995,Movie,The White Helmets,Orlando von Einsiedel,United Kingdom,2016,TV-PG,41 min,Documentaries
-996,Movie,Turbo,David Soren,United States,2013,PG,96 min,"Children & Family Movies, Comedies"
+996,movie,Turbo,David Soren,United States,2013,PG,96 min,"Children & Family Movies, Comedies"
 997,Movie,The Karate Kid,John G. Avildsen,United States,1984,PG,127 min,"Action & Adventure, Children & Family Movies, Classic Movies"
 998,TV Show,The Year of Happiness and Love,Not Given,Taiwan,2009,TV-PG,1 Season,"International TV Shows, Romantic TV Shows, TV Comedies"
 999,Movie,Expedition Happiness,Selima Taibi,Germany,2017,TV-PG,96 min,"Documentaries, International Movies"
@@ -1111,7 +1111,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 1109,Movie,Monster High: Fright On!,"Victor Dal Chele, Alfred Gimeno",United States,2011,TV-Y7,46 min,Children & Family Movies
 1110,Movie,Chhota Bheem Ka Roosi Romanch,"Arpan Sarkar, Shyamal Chaulia",Not Given,2019,TV-Y,63 min,Children & Family Movies
 1111,Movie,Krish Trish and Baltiboy: Comics of India,Tilak Shetty,Not Given,2012,TV-Y7,61 min,Children & Family Movies
-1112,Movie,I'm in Love with a Church Girl,Steve Race,United States,2013,PG,119 min,"Dramas, Faith & Spirituality, Romantic Movies"
+1112,movie,I'm in Love with a Church Girl,Steve Race,United States,2013,PG,119 min,"Dramas, Faith & Spirituality, Romantic Movies"
 1113,TV Show,Prince of Peoria,Not Given,United States,2019,TV-G,2 Seasons,"Kids' TV, TV Comedies"
 1114,TV Show,LEGO Jurassic World: Legend of Isla Nublar,Not Given,United States,2019,TV-Y,1 Season,Kids' TV
 1115,Movie,A Babysitter's Guide to Monster Hunting,Rachel Talalay,The Shire,2020,TV-PG,99 min,Children & Family Movies
@@ -1218,7 +1218,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 1216,Movie,Benji: Off the Leash,Joe Camp,United States,2004,PG,100 min,"Children & Family Movies, Dramas"
 1217,Movie,,,United Kingdom,2016,UR,103 min,"Dramas, International Movies, Romantic Movies"
 1218,TV Show,Oh Yuck,Not Given,Canada,2020,TV-G,1 Season,"Kids' TV, TV Comedies"
-1219,Movie,Operation Christmas Drop,Martin Wood,United States,2020,TV-G,96 min,"Children & Family Movies, Comedies, Romantic Movies"
+1219,movie,Operation Christmas Drop,Martin Wood,United States,2020,TV-G,96 min,"Children & Family Movies, Comedies, Romantic Movies"
 1220,TV Show,Word Party,Not Given,United States,2021,TV-Y,5 Seasons,Kids' TV
 1221,Movie,Terra,"Yann Arthus-Bertrand, Michael Pitiot",France,2015,TV-PG,98 min,"Documentaries, International Movies"
 1222,Movie,Monster High: New Ghoul at School,"Audu Paden, Eric Radomski",The Shire,2010,TV-Y7,23 min,Children & Family Movies
@@ -1335,7 +1335,7 @@ id,type,title,director,country,release_year,rating,duration,listed_in
 1333,Movie,Ramen Shop,Eric Khoo,Singapore,2018,TV-PG,90 min,"Dramas, International Movies"
 1334,Movie,Harry and Snowman,Ron Davis,United States,2015,TV-PG,83 min,"Documentaries, Sports Movies"
 1335,Movie,Harriet the Spy: Blog Wars,Ron Oliver,United States,2010,TV-G,87 min,"Children & Family Movies, Comedies"
-1336,Movie,Michael Lost and Found,Daniel Wilner,Canada,2017,TV-PG,19 min,"Documentaries, International Movies, LGBTQ Movies"
+1336,movie,Michael Lost and Found,Daniel Wilner,Canada,2017,TV-PG,19 min,"Documentaries, International Movies, LGBTQ Movies"
 1337,Movie,Skater Girl,Manjari Makijany,United States,2021,PG,110 min,"Children & Family Movies, Dramas, International Movies"
 1338,Movie,Be Somebody,Joshua Caldwell,United States,2016,PG,88 min,"Comedies, Dramas, Romantic Movies"
 1339,Movie,Dolphin Tale 2,Charles Martin Smith,United States,2014,PG,107 min,"Children & Family Movies, Dramas"
@@ -1469,7 +1469,7 @@ Flying Fortress",William Wyler,United States,1944,TV-PG,40 min,"Classic Movies, 
 1466,Movie,Go! Go! Cory Carson: The Chrissy,"Alex Woo, Stanley Moore",The Shire,2020,TV-Y,42 min,Children & Family Movies
 1467,TV Show,MegaTruckers,Not Given,Australia,2012,TV-PG,1 Season,Reality TV
 1468,Movie,Charlie and the Chocolate Factory,Tim Burton,United Kingdom,2005,PG,115 min,"Children & Family Movies, Comedies"
-1469,Movie,Time to Dance,Stanley Menino D'Costa,India,2020,TV-PG,107 min,"Dramas, International Movies, Romantic Movies"
+1469,movie,Time to Dance,Stanley Menino D'Costa,India,2020,TV-PG,107 min,"Dramas, International Movies, Romantic Movies"
 1470,Movie,Mercury 13,"David Sington, Heather Walsh",United States,2018,TV-PG,79 min,Documentaries
 1471,Movie,For the Love of Benji,Joe Camp,The Shire,1977,G,84 min,Children & Family Movies
 1472,TV Show,Justin Time,Not Given,Canada,2012,TV-Y,2 Seasons,Kids' TV
@@ -1636,7 +1636,7 @@ Flying Fortress",William Wyler,United States,1944,TV-PG,40 min,"Classic Movies, 
 1633,TV Show,Leo & Tig,Not Given,Pakistan,2017,TV-Y,1 Season,Kids' TV
 1634,TV Show,Rhyme Time Town,Not Given,Pakistan,2021,TV-Y,2 Seasons,Kids' TV
 1635,Movie,Just The Way You Are,Theodore Boborol,Philippines,2016,TV-G,107 min,"International Movies, Romantic Movies"
-1636,Movie,Beyond the Boundary: ICC Women's T20 World Cup Australia 2020,Anna Stone,Not Given,2020,TV-G,59 min,"Documentaries, International Movies, Sports Movies"
+1636,movie,Beyond the Boundary: ICC Women's T20 World Cup Australia 2020,Anna Stone,Not Given,2020,TV-G,59 min,"Documentaries, International Movies, Sports Movies"
 1637,Movie,The Wedding Curse,Chito S. Roño,Philippines,2006,TV-PG,101 min,"Horror Movies, International Movies"
 1638,TV Show,Earth's Natural Wonders,Not Given,United Kingdom,2015,TV-PG,1 Season,"British TV Shows, Docuseries, Science & Nature TV"
 1639,TV Show,Pocoyo,Not Given,Spain,2017,TV-Y,4 Seasons,"Kids' TV, Spanish-Language TV Shows"
@@ -1803,7 +1803,7 @@ Flying Fortress",William Wyler,United States,1944,TV-PG,40 min,"Classic Movies, 
 1800,TV Show,Weird Wonders of the World,Not Given,United Kingdom,2016,TV-PG,2 Seasons,"British TV Shows, Docuseries, Science & Nature TV"
 1801,Movie,Sleepover,Joe Nussbaum,United States,2004,PG,89 min,"Comedies, Romantic Movies"
 1802,Movie,Violet Evergarden: Eternity and the Auto Memory Doll,Haruka Fujita,Japan,2019,TV-PG,91 min,"Anime Features, International Movies, Sci-Fi & Fantasy"
-1803,Movie,Ladies First,Uraaz Bahl,India,2018,TV-G,40 min,"Documentaries, International Movies, Sports Movies"
+1803,movie,Ladies First,Uraaz Bahl,India,2018,TV-G,40 min,"Documentaries, International Movies, Sports Movies"
 1804,Movie,The Lamb,Timothy Reckart,United States,2017,PG,86 min,"Children & Family Movies, Faith & Spirituality"
 1805,Movie,Little Singham: Kaal Ki Tabaahi,Prakash Satam,Not Given,2019,TV-Y7,66 min,"Children & Family Movies, Comedies"
 1806,Movie,Chaar Sahibzaade,Harry Baweja,India,2014,TV-PG,126 min,"Dramas, Faith & Spirituality, International Movies"
@@ -1926,7 +1926,7 @@ Flying Fortress",William Wyler,United States,1944,TV-PG,40 min,"Classic Movies, 
 1923,Movie,Bruno and Boots: The Wizzle War,Vivieno Caldinelli,Canada,2017,TV-PG,90 min,"Children & Family Movies, Comedies"
 1924,TV Show,Kon Kon Kon,Not Given,Pakistan,2014,TV-PG,1 Season,"Docuseries, International TV Shows"
 1925,Movie,Secrets of Her Majesty's Secret Service,Kasia Uscinska,United Kingdom,2014,TV-PG,55 min,"Documentaries, International Movies"
-1926,Movie,Runaway Bride,Garry Marshall,United States,1999,PG,116 min,"Comedies, Romantic Movies"
+1926,movie,Runaway Bride,Garry Marshall,United States,1999,PG,116 min,"Comedies, Romantic Movies"
 1927,TV Show,Dennis and Gnasher Unleashed,Not Given,United Kingdom,2017,TV-Y,1 Season,"British TV Shows, Kids' TV, TV Comedies"
 1928,Movie,Fred Armisen: Standup For Drummers,Lance Bangs,United States,2018,TV-PG,65 min,"Music & Musicals, Stand-Up Comedy"
 1929,Movie,Chhota Bheem and the Curse of Damyaan,Rajiv Chilaka,India,2012,TV-Y7,87 min,Children & Family Movies
@@ -2065,7 +2065,7 @@ Flying Fortress",William Wyler,United States,1944,TV-PG,40 min,"Classic Movies, 
 2062,Movie,Shawn Mendes: Live in Concert,Paul Dugdale,United Kingdom,2020,TV-PG,87 min,Music & Musicals
 2063,TV Show,DreamWorks Spooky Stories: Volume 2,Not Given,Pakistan,2011,TV-PG,1 Season,"Kids' TV, TV Comedies"
 2064,TV Show,Strongland,Not Given,Pakistan,2018,TV-PG,1 Season,"Docuseries, International TV Shows"
-2065,Movie,Ready,Anees Bazmee,India,2011,TV-PG,144 min,"Comedies, International Movies, Romantic Movies"
+2065,movie,Ready,Anees Bazmee,India,2011,TV-PG,144 min,"Comedies, International Movies, Romantic Movies"
 2066,Movie,The Blue Umbrella,Vishal Bhardwaj,India,2005,TV-PG,90 min,"Children & Family Movies, Dramas, Independent Movies"
 2067,Movie,Spy Kids 2: The Island of Lost Dreams,Robert Rodriguez,United States,2002,PG,100 min,"Children & Family Movies, Comedies"
 2068,TV Show,Life in Color with David Attenborough,Alastair Fothergill,United Kingdom,2021,TV-PG,1 Season,"British TV Shows, Docuseries, International TV Shows"
@@ -2173,7 +2173,7 @@ Flying Fortress",William Wyler,United States,1944,TV-PG,40 min,"Classic Movies, 
 2170,TV Show,Dragons: Rescue Riders,Not Given,United States,2020,TV-Y,2 Seasons,"Kids' TV, TV Comedies"
 2171,Movie,Airplane Mode,César Rodrigues,United States,2020,TV-PG,97 min,"Comedies, International Movies, Romantic Movies"
 2172,TV Show,Oddbods,Not Given,United Kingdom,2017,TV-Y,1 Season,"Kids' TV, TV Comedies"
-2173,Movie,Letters to Juliet,Gary Winick,United States,2010,PG,105 min,"Comedies, Dramas, Romantic Movies"
+2173,movie,Letters to Juliet,Gary Winick,United States,2010,PG,105 min,"Comedies, Dramas, Romantic Movies"
 2174,TV Show,Violet Evergarden: Special,Not Given,Pakistan,2018,TV-PG,1 Season,"Anime Series, International TV Shows, Romantic TV Shows"
 2175,Movie,Si Doel the Movie 3,Rano Karno,Indonesia,2020,TV-G,93 min,"Dramas, International Movies, Music & Musicals"
 2176,TV Show,Pokémon the Series,Not Given,Pakistan,2019,TV-Y7,3 Seasons,"Anime Series, Kids' TV"
@@ -2260,7 +2260,7 @@ Flying Fortress",William Wyler,United States,1944,TV-PG,40 min,"Classic Movies, 
 2257,Movie,Big Fat Liar,Shawn Levy,United States,2002,PG,88 min,"Children & Family Movies, Comedies"
 2258,TV Show,Headspace Guide to Meditation,Not Given,United States,2021,TV-G,1 Season,"Docuseries, Science & Nature TV"
 2259,Movie,Samarppanam,K. Gopinathan,India,2017,TV-PG,116 min,"Dramas, International Movies"
-2260,Movie,Wadjda,Haifaa Al-Mansour,Saudi Arabia,2012,PG,93 min,"Dramas, Independent Movies, International Movies"
+2260,movie,Wadjda,Haifaa Al-Mansour,Saudi Arabia,2012,PG,93 min,"Dramas, Independent Movies, International Movies"
 2261,TV Show,28 Moons,Not Given,South Korea,2016,TV-PG,1 Season,"International TV Shows, Korean TV Shows, Romantic TV Shows"
 2262,Movie,Santa Claws,Glenn Miller,United States,2014,TV-PG,86 min,"Children & Family Movies, Comedies"
 2263,Movie,,,Mexico,1991,NR,94 min,"Comedies, Independent Movies, International Movies"
